@@ -1,0 +1,7 @@
+{
+“runtime”: {
+“majorVersion” : “8”
+},
+“command” : “java -jar my-app-0.0.1-SNAPSHOT.jar”,
+“notes” : “Mock Service”
+}
